@@ -1,0 +1,17 @@
+# 백업
+*_backup.ipynb
+data/processed_backup_*/
+backup_20261106/
+
+# 개발 환경
+.ipynb_checkpoints/
+__pycache__/
+.env
+
+# 이번 baseline 범위 밖 파일
+1015.ipynb
+check.ipynb
+data/raw/adobe/
+data/raw/npx/
+data/processed/kic_votes*.csv
+data/processed/pilot_metadata.csv

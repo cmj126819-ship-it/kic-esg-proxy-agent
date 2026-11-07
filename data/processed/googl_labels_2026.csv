@@ -1,0 +1,15 @@
+﻿proposal_no,title,proposer,board_rec,page,filer,esg_primary,esg_secondary,check_title,check_rec,check_page,label_note,label_source
+1,Election of Directors,회사,FOR,61,,G,,,,,회사 안건,claude_draft
+2,Ratification of Appointment of Independent Registered Public Accounting Firm,회사,FOR,62,,G,,,,,회사 안건,claude_draft
+3,Approval of the Amendment and Restatement of Alphabet Inc. Amended and Restated 2021 Stock Plan,회사,FOR,63,,G,,,,,회사 안건,claude_draft
+4,Advisory Vote to Approve Compensation Awarded to Named Executive Officers,회사,FOR,68,,G,,,,,회사 안건,claude_draft
+5,Shareholder Proposal Regarding an Enhanced Disclosure on Climate Goals,주주,AGAINST,72,Trillium ESG Global Equity Fund,E,,,,,기후 공시,claude_draft
+6,Shareholder Proposal Regarding a Report on Water Usage and AI Development,주주,AGAINST,74,"Inspire Investing, LLC",E,,,,,"물 사용 공시, AI는 배경",claude_draft
+7,Shareholder Proposal Regarding Equal Shareholder Voting,주주,AGAINST,77,"The NorthStar Asset Management, Inc. Funded Pension Plan",G,,,,,의결권 구조,claude_draft
+8,Shareholder Proposal Regarding a Viewpoint Diversity Risk Report,주주,AGAINST,80,The National Center for Public Policy Research,S,G,,,,관점 차별 위험 보고서 + 독립위원회 요구,claude_draft
+9,Shareholder Proposal Regarding a Report on Politicized Content Moderation,주주,AGAINST,83,"Bowyer Research, Inc.",S,,,,,"콘텐츠·표현, 기부 파트너십",claude_draft
+10,Shareholder Proposal Regarding a Report on Impact of U.S. Immigration Policy,주주,AGAINST,85,The SOC Investment Group,S,,,,,인력·이민,claude_draft
+11,Shareholder Proposal Regarding a Report on Data Privacy,주주,AGAINST,87,Zevin Asset Management,S,,,,,"개인정보, 정부 데이터 접근",claude_draft
+12,Shareholder Proposal Regarding AI Board Oversight,주주,AGAINST,90,The Shareholder Association for Research & Education,G,S,,,,이사회 AI 감독 체계,claude_draft
+13,Shareholder Proposal Regarding a Report on AI-Generated Misinformation,주주,AGAINST,93,Vancity Investment Management,S,,,,,AI 허위정보의 사회 영향,claude_draft
+14,Shareholder Proposal Regarding a Report on AI Data Usage Oversight,주주,AGAINST,96,The National Legal and Policy Center,S,G,,,,"AI 데이터 사용 위험 보고, 감독 언급",claude_draft
