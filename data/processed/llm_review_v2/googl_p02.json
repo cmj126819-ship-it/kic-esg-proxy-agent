@@ -1,0 +1,68 @@
+{
+  "esg_primary": "G",
+  "esg_secondary": "없음",
+  "esg_reason": "회사가 독립 감사인을 선임하는 안건으로, 지배구조(G)와 관련이 있다.",
+  "holder_request": {
+    "summary": "Ernst & Young LLP의 독립 감사인 선임을 비준해 달라는 요청이다.",
+    "evidence": [
+      {
+        "chunk_id": "p02_main_001",
+        "quote": "Ratification of Appointment of Independent Registered Public Accounting Firm",
+        "check": "통과"
+      }
+    ]
+  },
+  "company_response": {
+    "summary": "이사회는 Ernst & Young LLP의 선임을 찬성하며, 이는 주주에게 최선의 이익이 될 것이라고 주장한다.",
+    "evidence": [
+      {
+        "chunk_id": "p02_main_002",
+        "quote": "The Audit Committee believes that the continued retention of Ernst & Young LLP as our independent registered public accounting firm is in the best interests of Alphabet and our shareholders.",
+        "check": "통과"
+      }
+    ]
+  },
+  "key_issues": [
+    {
+      "issue": "감사인의 독립성 유지 여부",
+      "evidence": [
+        {
+          "chunk_id": "p02_supp_audit_003",
+          "quote": "We maintain a policy that aims to help maintain auditor independence and our compliance with regulatory requirements by ensuring a process for: (1) internal and external auditor review of proposed services for independence; and (2) pre-approval of the services by the Audit Committee.",
+          "check": "통과"
+        }
+      ]
+    },
+    {
+      "issue": "감사 보수의 적정성",
+      "evidence": [
+        {
+          "chunk_id": "p02_supp_audit_001",
+          "quote": "The following table sets forth all fees paid or accrued by us for the audit and other services provided by Ernst & Young LLP during the years ended December 31, 2024 and 2025.",
+          "check": "통과"
+        }
+      ]
+    }
+  ],
+  "proponent_note": "",
+  "vote_opinion": {
+    "opinion": "찬성",
+    "reason": "회사가 Ernst & Young LLP의 선임을 비준하는 것이 주주에게 최선의 이익이 될 것이라는 주장을 하고 있으며, 감사인의 독립성을 유지하기 위한 정책도 마련되어 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p02_main_002",
+        "quote": "The Audit Committee believes that the continued retention of Ernst & Young LLP as our independent registered public accounting firm is in the best interests of Alphabet and our shareholders.",
+        "check": "통과"
+      },
+      {
+        "chunk_id": "p02_supp_audit_003",
+        "quote": "We maintain a policy that aims to help maintain auditor independence and our compliance with regulatory requirements by ensuring a process for: (1) internal and external auditor review of proposed services for independence; and (2) pre-approval of the services by the Audit Committee.",
+        "check": "통과"
+      }
+    ]
+  },
+  "needs_check": [],
+  "proposal_no": 2,
+  "evidence_total": 6,
+  "evidence_passed": 6
+}

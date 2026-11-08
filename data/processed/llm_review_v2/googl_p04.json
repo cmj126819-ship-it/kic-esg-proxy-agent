@@ -1,0 +1,91 @@
+{
+  "esg_primary": "G",
+  "esg_secondary": "없음",
+  "esg_reason": "이사 보수에 대한 자문 투표를 요청하는 안건이므로 지배구조(G)로 분류된다.",
+  "holder_request": {
+    "summary": "이사 보수 승인에 대한 자문 투표를 요청한다.",
+    "evidence": [
+      {
+        "chunk_id": "p04_main_001",
+        "quote": "we are seeking an advisory, non-binding shareholder vote with respect to compensation awarded to our named executive officers.",
+        "check": "통과"
+      },
+      {
+        "chunk_id": "p04_main_004",
+        "quote": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE FOR THE APPROVAL, ON AN ADVISORY BASIS, OF THE COMPENSATION AWARDED TO ALPHABET’S NAMED EXECUTIVE OFFICERS AS DESCRIBED IN THIS PROXY STATEMENT.",
+        "check": "통과"
+      }
+    ]
+  },
+  "company_response": {
+    "summary": "이사회는 이사 보수에 대한 자문 투표를 찬성하며, 보수 프로그램이 회사의 비즈니스 목표를 지원한다고 설명한다.",
+    "evidence": [
+      {
+        "chunk_id": "p04_main_002",
+        "quote": "Our executive compensation program and compensation paid to our named executive officers are described on pages 42 - 57 of this proxy statement.",
+        "check": "실패"
+      },
+      {
+        "chunk_id": "p04_main_003",
+        "quote": "the Compensation Committee will consider the outcome of the vote, along with other relevant factors, in evaluating Alphabet’s executive compensation program.",
+        "check": "통과"
+      }
+    ]
+  },
+  "key_issues": [
+    {
+      "issue": "보수의 적정성 및 성과 기반 보수의 비율",
+      "evidence": [
+        {
+          "chunk_id": "p04_main_002",
+          "quote": "We believe in pay for performance, which is reflected in our compensation design.",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p04_supp_cda_029",
+          "quote": "The Compensation Committee believes that the design of our annual and long-term incentives focuses performance on long-term value creation and discourages short-term risk taking at the expense of long-term results.",
+          "chunk_id_original": "p04_supp_cda_030",
+          "check": "ID 교정"
+        }
+      ]
+    },
+    {
+      "issue": "이사회 독립성 및 보수 결정 과정",
+      "evidence": [
+        {
+          "chunk_id": "p04_supp_cda_007",
+          "quote": "The Compensation Committee, comprised entirely of independent directors, then reviews these recommendations.",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p04_supp_cda_008",
+          "quote": "The Compensation Committee directly engaged both Compensia Inc. and Semler Brossy as independent compensation consultants in 2025.",
+          "check": "통과"
+        }
+      ]
+    }
+  ],
+  "proponent_note": "",
+  "vote_opinion": {
+    "opinion": "찬성",
+    "reason": "이사회가 제안한 보수 구조가 성과 기반으로 설계되어 있으며, 독립적인 보상 위원회가 이를 검토하고 있다는 점에서 긍정적이다.",
+    "evidence": [
+      {
+        "chunk_id": "p04_main_002",
+        "quote": "We believe in pay for performance, which is reflected in our compensation design.",
+        "check": "통과"
+      },
+      {
+        "chunk_id": "p04_supp_cda_007",
+        "quote": "The Compensation Committee, comprised entirely of independent directors, then reviews these recommendations.",
+        "check": "통과"
+      }
+    ]
+  },
+  "needs_check": [
+    "[근거 확인 필요] company_response / p04_main_002: 인용문이 원문과 다름"
+  ],
+  "proposal_no": 4,
+  "evidence_total": 10,
+  "evidence_passed": 9
+}

@@ -1,0 +1,40 @@
+{
+  "esg_primary": "없음",
+  "esg_secondary": "없음",
+  "holder_request": {
+    "summary": "",
+    "evidence": []
+  },
+  "company_response": {
+    "summary": "회사는 Ernst & Young LLP의 지속적인 고용이 주주에게 최선의 이익이라고 주장한다.",
+    "evidence": [
+      {
+        "chunk_id": "p02_main_002",
+        "quote": "The Audit Committee believes that the continued retention of Ernst & Young LLP as our independent registered public accounting firm is in the best interests of Alphabet and our shareholders.",
+        "check": "통과"
+      }
+    ]
+  },
+  "key_issues": [],
+  "proponent_note": "제안자는 회사입니다.",
+  "vote_opinion": {
+    "opinion": "찬성",
+    "reason": "회사는 Ernst & Young LLP의 고용이 주주에게 최선의 이익이라고 주장하며, 감사위원회가 독립성을 유지하기 위한 정책을 갖추고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p02_main_002",
+        "quote": "The Audit Committee believes that the continued retention of Ernst & Young LLP as our independent registered public accounting firm is in the best interests of Alphabet and our shareholders.",
+        "check": "통과"
+      },
+      {
+        "chunk_id": "p02_supp_audit_003",
+        "quote": "We maintain a policy that aims to help maintain auditor independence and our compliance with regulatory requirements by ensuring a process for: (1) internal and external auditor review of proposed services for independence.",
+        "check": "통과"
+      }
+    ]
+  },
+  "needs_check": [],
+  "proposal_no": 2,
+  "evidence_total": 3,
+  "evidence_passed": 3
+}

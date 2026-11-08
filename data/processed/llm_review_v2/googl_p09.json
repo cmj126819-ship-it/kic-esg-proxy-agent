@@ -1,0 +1,65 @@
+{
+  "esg_primary": "G",
+  "esg_secondary": "없음",
+  "esg_reason": "주주가 정치화된 콘텐츠 조정에 대한 보고서를 요구하고 있으며, 이는 이사회 구조와 관련된 요구로 분류된다.",
+  "holder_request": {
+    "summary": "Alphabet은 정치화된 기업 파트너가 만든 진단 도구 사용의 이점, 비용 및 법적, 평판, 경쟁적 위험을 분석하는 보고서를 발행해야 한다.",
+    "evidence": [
+      {
+        "chunk_id": "p09_holder_006",
+        "quote": "Resolved: Shareholders request that Alphabet conduct an evaluation and issue a report within the next year, at reasonable expense and excluding proprietary and confidential information, analyzing the benefits, costs, and legal, reputational, competitive, and other relevant risks of the use of diagnostic tools created by politicized corporate partners.",
+        "check": "통과"
+      }
+    ]
+  },
+  "company_response": {
+    "summary": "이사회는 이미 공개된 정책에 따라 콘텐츠 조정을 수행하고 있으며, 추가 보고서는 필요하지 않다고 주장한다.",
+    "evidence": [
+      {
+        "chunk_id": "p09_company_001",
+        "quote": "Our content moderation is governed by established, publicly available policies that apply to all users; we maintain full independence in decision-making; and we provide robust oversight and granular disclosure through existing Transparency Reports, making the requested additional report unnecessary.",
+        "check": "실패"
+      }
+    ]
+  },
+  "key_issues": [
+    {
+      "issue": "정치화된 콘텐츠 조정의 위험과 관련된 보고서의 필요성",
+      "evidence": [
+        {
+          "chunk_id": "p09_holder_001",
+          "quote": "Corporate charitable partnerships have a direct and significant impact on both brand value and market value.",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p09_company_004",
+          "quote": "The requested report suggests that Alphabet’s content moderation is driven by 'politicized corporate partners.'",
+          "check": "통과"
+        }
+      ]
+    }
+  ],
+  "proponent_note": "",
+  "vote_opinion": {
+    "opinion": "반대",
+    "reason": "주주가 제기한 정치화된 콘텐츠 조정의 위험에 대한 우려는 중요하지만, 회사는 이미 공개된 정책과 투명성 보고서를 통해 이러한 문제를 다루고 있다고 주장하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p09_holder_005",
+        "quote": "Continued support for the SPLC may be perceived as endorsement of its controversial practices, potentially harming Alphabet’s brand and market value.",
+        "check": "통과"
+      },
+      {
+        "chunk_id": "p09_company_002",
+        "quote": "We maintain full independence in decision-making.",
+        "check": "통과"
+      }
+    ]
+  },
+  "needs_check": [
+    "[근거 확인 필요] company_response / p09_company_001: 인용문이 원문과 다름"
+  ],
+  "proposal_no": 9,
+  "evidence_total": 6,
+  "evidence_passed": 5
+}

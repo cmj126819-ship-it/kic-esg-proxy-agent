@@ -1,0 +1,15 @@
+﻿no,esg_llm,esg_draft,primary_match,opinion,board_rec,evidence,needs_check,tokens
+1,G/없음,G/없음,True,찬성,FOR,4/5,1,9519
+2,G/없음,G/없음,True,찬성,FOR,6/6,0,3053
+3,G/없음,G/없음,True,찬성,FOR,6/6,0,5952
+4,G/없음,G/없음,True,찬성,FOR,9/10,1,7911
+5,E/없음,E/없음,True,찬성,AGAINST,8/9,1,4767
+6,E/없음,E/없음,True,반대,AGAINST,7/8,1,4678
+7,G/없음,G/없음,True,찬성,AGAINST,10/10,1,4797
+8,G/없음,S/G,False,반대,AGAINST,9/9,0,4832
+9,G/없음,S/없음,False,반대,AGAINST,5/6,1,4652
+10,S/G,S/없음,True,찬성,AGAINST,5/8,3,4503
+11,S/없음,S/없음,True,찬성,AGAINST,8/10,2,5044
+12,G/없음,G/S,True,찬성,AGAINST,9/10,1,4893
+13,S/G,S/없음,True,찬성,AGAINST,7/8,1,5437
+14,S/G,S/G,True,찬성,AGAINST,6/8,2,5487

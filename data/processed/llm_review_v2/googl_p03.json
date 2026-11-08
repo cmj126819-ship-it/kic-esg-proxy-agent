@@ -1,0 +1,63 @@
+{
+  "esg_primary": "G",
+  "esg_secondary": "없음",
+  "esg_reason": "안건은 주주에게 이사회의 보수 및 주식 보상 계획을 승인하도록 요구하는 내용이다.",
+  "holder_request": {
+    "summary": "Alphabet Inc.의 2021 주식 계획 개정 및 재작성 승인",
+    "evidence": [
+      {
+        "chunk_id": "p03_main_001",
+        "quote": "Approval of the Amendment and Restatement of Alphabet Inc. Amended and Restated 2021 Stock Plan",
+        "check": "통과"
+      }
+    ]
+  },
+  "company_response": {
+    "summary": "이사회는 주식 보상 계획의 주식 수를 늘리는 것이 회사의 성공에 필수적이라고 주장한다.",
+    "evidence": [
+      {
+        "chunk_id": "p03_main_034",
+        "quote": "We believe strongly that the approval of the increase in the number shares of Class C capital stock issuable under the Plan by 200,000,000 shares is essential to our continued success.",
+        "check": "통과"
+      }
+    ]
+  },
+  "key_issues": [
+    {
+      "issue": "주식 보상 계획의 주식 수 증가 필요성",
+      "evidence": [
+        {
+          "chunk_id": "p03_main_002",
+          "quote": "the Compensation Committee and our full Board believe that in order to successfully attract and retain the best possible candidates, we must continue to offer a competitive equity incentive program.",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p03_main_034",
+          "quote": "Equity awards provided under the Plan are vital to our ability to attract and retain outstanding and highly skilled individuals.",
+          "check": "통과"
+        }
+      ]
+    }
+  ],
+  "proponent_note": "",
+  "vote_opinion": {
+    "opinion": "찬성",
+    "reason": "회사가 제안한 주식 보상 계획의 개정은 인재 유치 및 유지에 필수적이며, 이는 장기적인 주주 가치를 증대시킬 수 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p03_main_002",
+        "quote": "the Compensation Committee and our full Board believe that in order to successfully attract and retain the best possible candidates, we must continue to offer a competitive equity incentive program.",
+        "check": "통과"
+      },
+      {
+        "chunk_id": "p03_main_034",
+        "quote": "Equity awards provided under the Plan are vital to our ability to attract and retain outstanding and highly skilled individuals.",
+        "check": "통과"
+      }
+    ]
+  },
+  "needs_check": [],
+  "proposal_no": 3,
+  "evidence_total": 6,
+  "evidence_passed": 6
+}

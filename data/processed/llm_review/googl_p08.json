@@ -1,0 +1,72 @@
+{
+  "esg_primary": "G",
+  "esg_secondary": "없음",
+  "holder_request": {
+    "summary": "주주는 이사회에 독립 위원회를 설립하여 이사회와 고위 리더십의 관점 다양성 부족으로 인한 위험을 평가하는 보고서를 발행할 것을 요청하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p08_holder_001",
+        "quote": "Shareholders request that the Board of Directors establish an independent committee to publish a report, at reasonable cost and omitting proprietary information, assessing the risks to the Alphabet arising from an apparent lack of viewpoint diversity on the Board and within senior leadership.",
+        "check": "통과"
+      }
+    ]
+  },
+  "company_response": {
+    "summary": "회사는 기존의 거버넌스 프레임워크가 다양한 관점을 촉진하고 있으며, 별도의 보고서는 비즈니스 중심의 리더십과 혁신에 방해가 될 것이라고 주장하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p08_company_001",
+        "quote": "Our existing governance framework already promotes a breadth of perspective through a rigorous director selection process.",
+        "check": "통과"
+      }
+    ]
+  },
+  "key_issues": [
+    {
+      "issue": "관점 다양성 부족으로 인한 위험 평가의 필요성",
+      "evidence": [
+        {
+          "chunk_id": "p08_holder_002",
+          "quote": "Evidence raises concerns that Alphabet’s leadership environment lacks such balance.",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p08_company_001",
+          "quote": "Robust risk oversight is already operationalized through our Board and its standing committees.",
+          "check": "통과"
+        }
+      ]
+    },
+    {
+      "issue": "독립 위원회 설립의 필요성",
+      "evidence": [
+        {
+          "chunk_id": "p08_holder_006",
+          "quote": "The requested report would not require Alphabet to endorse any political position.",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p08_company_008",
+          "quote": "Establishing a separate committee to report on 'viewpoint' metrics would largely duplicate these existing efforts.",
+          "check": "통과"
+        }
+      ]
+    }
+  ],
+  "proponent_note": "제안자는 The National Center for Public Policy Research이다.",
+  "vote_opinion": {
+    "opinion": "반대",
+    "reason": "회사는 이미 다양한 관점을 촉진하는 거버넌스 프레임워크를 갖추고 있으며, 별도의 보고서는 비즈니스 중심의 리더십에 방해가 될 수 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p08_company_001",
+        "quote": "A prescriptive report focusing on political or ideological metrics would misalign with our focus on business-driven leadership.",
+        "check": "통과"
+      }
+    ]
+  },
+  "needs_check": [],
+  "proposal_no": 8,
+  "evidence_total": 7,
+  "evidence_passed": 7
+}

@@ -1,0 +1,83 @@
+{
+  "esg_primary": "G",
+  "esg_secondary": "없음",
+  "esg_reason": "주주가 이사회 내의 다양한 관점을 반영할 수 있는 리스크 보고서를 요구하고 있어 거버넌스 관련 안건으로 분류됨.",
+  "holder_request": {
+    "summary": "주주들은 이사회가 독립적인 위원회를 구성하여 이사회와 고위 리더십의 관점 다양성 부족으로 인한 리스크를 평가하는 보고서를 발행할 것을 요구하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p08_holder_001",
+        "quote": "Shareholders request that the Board of Directors establish an independent committee to publish a report, at reasonable cost and omitting proprietary information, assessing the risks to the Alphabet arising from an apparent lack of viewpoint diversity on the Board and within senior leadership.",
+        "check": "통과"
+      }
+    ]
+  },
+  "company_response": {
+    "summary": "회사는 기존의 거버넌스 프레임워크가 다양한 관점을 촉진하고 있으며, 정치적 또는 이념적 지표에 초점을 맞춘 보고서는 비즈니스 중심의 리더십과 일치하지 않으며, 민첩성과 혁신을 저해할 수 있다고 주장하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p08_company_001",
+        "quote": "Our existing governance framework already promotes a breadth of perspective through a rigorous director selection process.",
+        "check": "통과"
+      },
+      {
+        "chunk_id": "p08_company_008",
+        "quote": "Establishing a separate committee to report on 'viewpoint' metrics would largely duplicate these existing efforts without providing meaningful additional benefit to our shareholders.",
+        "check": "통과"
+      }
+    ]
+  },
+  "key_issues": [
+    {
+      "issue": "이사회 내 관점 다양성 부족에 대한 리스크 평가의 필요성",
+      "evidence": [
+        {
+          "chunk_id": "p08_holder_002",
+          "quote": "Evidence raises concerns that Alphabet’s leadership environment lacks such balance.",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p08_company_001",
+          "quote": "Our existing governance framework already promotes a breadth of perspective through a rigorous director selection process.",
+          "check": "통과"
+        }
+      ]
+    },
+    {
+      "issue": "정치적 또는 이념적 지표에 초점을 맞춘 보고서의 유용성",
+      "evidence": [
+        {
+          "chunk_id": "p08_holder_006",
+          "quote": "the requested report would not require Alphabet to endorse any political position.",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p08_company_008",
+          "quote": "Implementing a reporting regime based on political or ideological metrics would misdirect management’s focus from our core business objectives.",
+          "check": "통과"
+        }
+      ]
+    }
+  ],
+  "proponent_note": "",
+  "vote_opinion": {
+    "opinion": "반대",
+    "reason": "주주가 제기한 이사회 내 관점 다양성 부족에 대한 우려와 리스크 평가의 필요성에 대해 회사가 충분히 답변하지 못하고 있으며, 기존의 거버넌스 프레임워크가 이를 해결할 수 있다는 주장은 구체적인 증거가 부족하다.",
+    "evidence": [
+      {
+        "chunk_id": "p08_holder_005",
+        "quote": "From a shareholder perspective, these issues present material risks.",
+        "check": "통과"
+      },
+      {
+        "chunk_id": "p08_company_001",
+        "quote": "Robust risk oversight is already operationalized through our Board and its standing committees.",
+        "check": "통과"
+      }
+    ]
+  },
+  "needs_check": [],
+  "proposal_no": 8,
+  "evidence_total": 9,
+  "evidence_passed": 9
+}

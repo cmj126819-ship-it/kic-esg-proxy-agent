@@ -1,0 +1,72 @@
+{
+  "esg_primary": "G",
+  "esg_secondary": "없음",
+  "holder_request": {
+    "summary": "주주는 AI 생성 허위 정보의 확산을 방지하기 위한 추가 조치를 평가하고 보고할 것을 요청하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p13_holder_006",
+        "quote": "Resolved: Shareholders request that the Board commission a third-party assessment, at reasonable expense, of additional actions the company could take to mitigate the proliferation of false information on the platform and report to shareholders...",
+        "check": "통과"
+      }
+    ]
+  },
+  "company_response": {
+    "summary": "회사는 기존의 다층적 거버넌스 프레임워크와 AI 원칙을 통해 허위 정보의 위험을 완화하기 위한 노력을 하고 있다고 주장하며, 제안된 제3자 평가가 불필요하다고 반박하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p13_company_001",
+        "quote": "Our Board of Directors recommends a vote AGAINST the shareholder proposal because: • Our existing multi-layered governance framework, grounded in our foundational AI Principles...",
+        "check": "통과"
+      }
+    ]
+  },
+  "key_issues": [
+    {
+      "issue": "AI 생성 허위 정보의 위험 완화에 대한 회사의 기존 조치의 효과성",
+      "evidence": [
+        {
+          "chunk_id": "p13_holder_002",
+          "quote": "Shareholders are concerned that Google generative AI produces falsehoods that cause real world harm and engender legal, regulatory, financial, and reputational risks to Alphabet.",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p13_company_003",
+          "quote": "Our Gemini 3 model underwent the most comprehensive safety evaluations of any Google AI model to date.",
+          "check": "통과"
+        }
+      ]
+    },
+    {
+      "issue": "제안된 제3자 평가의 필요성",
+      "evidence": [
+        {
+          "chunk_id": "p13_holder_006",
+          "quote": "Shareholders request that the Board commission a third-party assessment, at reasonable expense, of additional actions the company could take...",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p13_company_009",
+          "quote": "Given our existing multi-layered governance framework, grounded in our AI Principles, robust policies, and extensive public transparency, our Board believes that the third-party assessment requested by this proposal is unnecessary...",
+          "check": "통과"
+        }
+      ]
+    }
+  ],
+  "proponent_note": "제안자는 Vancity Investment Management이다.",
+  "vote_opinion": {
+    "opinion": "반대",
+    "reason": "회사는 이미 다층적 거버넌스 프레임워크와 AI 원칙을 통해 허위 정보의 위험을 완화하기 위한 조치를 취하고 있다고 주장하며, 주주가 제기한 쟁점에 대해 충분한 답변을 제공하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p13_company_001",
+        "quote": "Our existing multi-layered governance framework, grounded in our foundational AI Principles, robust policies and procedures...",
+        "check": "통과"
+      }
+    ]
+  },
+  "needs_check": [],
+  "proposal_no": 13,
+  "evidence_total": 7,
+  "evidence_passed": 7
+}

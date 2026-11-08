@@ -1,0 +1,60 @@
+{
+  "esg_primary": "G",
+  "esg_secondary": "없음",
+  "holder_request": {
+    "summary": "주주들은 이사 후보들의 독립성과 전문성을 강조하며, 이사회의 다양성과 책임성을 요구하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p01_supp_independence_001",
+        "quote": "Our Board has determined that each of the director nominees standing for election, except Larry, Sergey, and Sundar, are independent directors under these standards.",
+        "check": "통과"
+      }
+    ]
+  },
+  "company_response": {
+    "summary": "회사는 이사 후보들이 독립적이며, 이사회가 효과적인 관리 감독을 제공한다고 주장하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p01_supp_leadership_003",
+        "quote": "Our Board believes that the independent directors provide effective oversight of management.",
+        "chunk_id_original": "p01_supp_independence_001",
+        "check": "ID 교정"
+      }
+    ]
+  },
+  "key_issues": [
+    {
+      "issue": "이사 후보의 독립성",
+      "evidence": [
+        {
+          "chunk_id": "p01_supp_independence_001",
+          "quote": "Our Board has determined that each of the director nominees standing for election, except Larry, Sergey, and Sundar, are independent directors under these standards.",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p01_supp_leadership_003",
+          "quote": "Our Board believes that the independent directors provide effective oversight of management.",
+          "chunk_id_original": "p01_supp_independence_001",
+          "check": "ID 교정"
+        }
+      ]
+    }
+  ],
+  "proponent_note": "제안자는 회사이며, 주주가 아닌 회사가 이사 후보를 추천하고 있다.",
+  "vote_opinion": {
+    "opinion": "찬성",
+    "reason": "이사 후보들이 독립적이며, 이사회가 효과적인 관리 감독을 제공할 것으로 보인다.",
+    "evidence": [
+      {
+        "chunk_id": "p01_supp_leadership_003",
+        "quote": "Our Board believes that the independent directors provide effective oversight of management.",
+        "chunk_id_original": "p01_supp_independence_001",
+        "check": "ID 교정"
+      }
+    ]
+  },
+  "needs_check": [],
+  "proposal_no": 1,
+  "evidence_total": 5,
+  "evidence_passed": 5
+}

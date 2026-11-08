@@ -1,0 +1,79 @@
+{
+  "esg_primary": "G",
+  "esg_secondary": "E | S | 없음",
+  "holder_request": {
+    "summary": "주주는 이사회에 AI의 책임 있는 개발 및 배포에 대한 공식적인 감독을 요청하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p12_holder_001",
+        "quote": "Shareholders request the Board of Directors of Alphabet, Inc. to update the Audit Committee Charter to provide formal oversight on the responsible development and deployment of artificial intelligence",
+        "check": "실패"
+      }
+    ]
+  },
+  "company_response": {
+    "summary": "회사는 이사회가 AI 관련 위험에 대한 감독을 이미 효과적으로 수행하고 있다고 주장하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p12_company_001",
+        "quote": "The Board as a whole is ultimately responsible for risk oversight at Alphabet, including the strategic, execution, and human rights risks associated with AI.",
+        "check": "통과"
+      }
+    ]
+  },
+  "key_issues": [
+    {
+      "issue": "AI에 대한 이사회의 감독 필요성",
+      "evidence": [
+        {
+          "chunk_id": "p12_holder_004",
+          "quote": "The development and deployment of AI may create new unforeseen risks to the human rights of billions of users and stakeholders",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p12_company_003",
+          "quote": "Our Board believes that oversight of risks associated with the development and deployment of AI is already being carried out effectively at the full Board level.",
+          "check": "통과"
+        }
+      ]
+    },
+    {
+      "issue": "AI 관련 위험 관리의 적절성",
+      "evidence": [
+        {
+          "chunk_id": "p12_holder_006",
+          "quote": "unaddressed vulnerabilities in AI governance systems may eventually lead to costly and resource-intensive interventions",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p12_company_002",
+          "quote": "Our integrated internal governance and risk management protocols effectively manage AI risks.",
+          "check": "통과"
+        }
+      ]
+    }
+  ],
+  "proponent_note": "제안자는 The Shareholder Association for Research & Education로, 캐나다 연합 교회의 연금 계획을 대표하여 제안함.",
+  "vote_opinion": {
+    "opinion": "반대",
+    "reason": "회사는 AI 관련 위험에 대한 감독이 이미 효과적으로 이루어지고 있다고 주장하며, 주주가 제기한 AI 감독의 필요성에 대한 우려에 대해 구체적인 답변을 제공하지 않았다.",
+    "evidence": [
+      {
+        "chunk_id": "p12_holder_003",
+        "quote": "this rollback leaves an accountability gap around responsible AI governance addressing human rights risks.",
+        "check": "통과"
+      },
+      {
+        "chunk_id": "p12_company_009",
+        "quote": "our Board believes that this proposal is unnecessary and would not provide incremental benefit to our shareholders.",
+        "check": "통과"
+      }
+    ]
+  },
+  "needs_check": [
+    "[근거 확인 필요] holder_request / p12_holder_001: 인용문이 원문과 다름"
+  ],
+  "proposal_no": 12,
+  "evidence_total": 8,
+  "evidence_passed": 7
+}

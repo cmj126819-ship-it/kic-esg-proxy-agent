@@ -1,0 +1,77 @@
+{
+  "esg_primary": "S",
+  "esg_secondary": "G",
+  "esg_reason": "주주가 미국 이민 정책의 영향에 대한 보고서를 요구하고 있으며, 이는 사회적 이슈와 기업 거버넌스와 관련이 있다.",
+  "holder_request": {
+    "summary": "주주들은 이사회에 미국 이민 정책과 집행이 Alphabet Inc.의 운영에 미치는 영향을 다룬 공개 보고서를 제공할 것을 요청하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p10_holder_001",
+        "quote": "Shareholders request that the Board of Directors provide a publicly available report on how U.S. immigration policy and enforcement impacts Alphabet Inc.’s (“the Company”) operations.",
+        "check": "통과"
+      },
+      {
+        "chunk_id": "p10_holder_005",
+        "quote": "We urge shareholders to vote FOR this proposal.",
+        "check": "통과"
+      }
+    ]
+  },
+  "company_response": {
+    "summary": "이사회는 이 제안이 회사의 일반적인 비즈니스 운영을 저해할 것이라고 주장하며, 이미 인적 자원 관리에 대한 포괄적인 공개를 제공하고 있다고 반박하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p10_company_001",
+        "quote": "The proposal would undermine our ability to manage ordinary business operations, specifically our global workforce and talent acquisition strategies.",
+        "check": "통과"
+      },
+      {
+        "chunk_id": "p10_company_004",
+        "quote": "We already provide comprehensive disclosures regarding human capital management.",
+        "check": "실패"
+      }
+    ]
+  },
+  "key_issues": [
+    {
+      "issue": "이민 정책의 영향에 대한 보고서 필요성",
+      "evidence": [
+        {
+          "chunk_id": "p10_holder_002",
+          "quote": "The Company has not disclosed to shareholders how it plans to either move forward without these skilled workers or plan to bear the economic strain from the new fees.",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p10_company_003",
+          "quote": "Disclosing specific operational plans regarding talent constraints could result in competitive harm.",
+          "check": "통과"
+        }
+      ]
+    }
+  ],
+  "proponent_note": "",
+  "vote_opinion": {
+    "opinion": "찬성",
+    "reason": "주주가 제기한 이민 정책의 영향에 대한 보고서 요청은 회사의 인재 확보 전략과 관련된 중요한 사회적 이슈를 다루고 있으며, 회사가 이에 대한 충분한 답변을 제공하지 못하고 있다.",
+    "evidence": [
+      {
+        "chunk_id": "p10_holder_004",
+        "quote": "Concerns have been raised that current U.S. immigration policies will lead to 'brain drain,' an inability to recruit or retain global talent.",
+        "check": "실패"
+      },
+      {
+        "chunk_id": "p10_company_002",
+        "quote": "Decisions regarding workforce planning, geographic resource allocation, and talent acquisition budgets — including the management of visa-related expenses — are inherently complex and confidential business information.",
+        "check": "실패"
+      }
+    ]
+  },
+  "needs_check": [
+    "[근거 확인 필요] company_response / p10_company_004: 인용문이 원문과 다름",
+    "[근거 확인 필요] vote_opinion / p10_holder_004: 인용문이 원문과 다름",
+    "[근거 확인 필요] vote_opinion / p10_company_002: 인용문이 원문과 다름"
+  ],
+  "proposal_no": 10,
+  "evidence_total": 8,
+  "evidence_passed": 5
+}

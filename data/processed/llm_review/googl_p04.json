@@ -1,0 +1,72 @@
+{
+  "esg_primary": "S",
+  "esg_secondary": "G",
+  "holder_request": {
+    "summary": "주주는 경영진 보상에 대한 투표를 통해 주주 가치를 보호하고자 한다.",
+    "evidence": [
+      {
+        "chunk_id": "p04_main_001",
+        "quote": "we are seeking an advisory, non-binding shareholder vote with respect to compensation awarded to our named executive officers.",
+        "check": "통과"
+      }
+    ]
+  },
+  "company_response": {
+    "summary": "회사는 보상이 성과 기반으로 설계되었으며, 주주와의 이해관계를 일치시키기 위해 노력하고 있다고 주장한다.",
+    "evidence": [
+      {
+        "chunk_id": "p04_main_002",
+        "quote": "We believe in pay for performance, which is reflected in our compensation design.",
+        "check": "통과"
+      }
+    ]
+  },
+  "key_issues": [
+    {
+      "issue": "경영진 보상이 성과 기반으로 설계되었는가?",
+      "evidence": [
+        {
+          "chunk_id": "p04_main_002",
+          "quote": "The proportion of overall pay tied to performance is higher for employees at more senior levels in the organization.",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p04_supp_cda_029",
+          "quote": "the design of our annual and long-term incentives focuses performance on long-term value creation and discourages short-term risk taking.",
+          "check": "통과"
+        }
+      ]
+    },
+    {
+      "issue": "보상 프로그램이 주주 가치를 보호하는가?",
+      "evidence": [
+        {
+          "chunk_id": "p04_supp_cda_031",
+          "quote": "the majority of compensation provided to our named executive officers is delivered through equity awards, with payout based on long-term company performance.",
+          "check": "통과"
+        },
+        {
+          "chunk_id": "p04_supp_cda_028",
+          "quote": "the Compensation Committee reviewed a comprehensive annual evaluation conducted by Alphabet management of all our 2025 compensation programs.",
+          "check": "통과"
+        }
+      ]
+    }
+  ],
+  "proponent_note": "제안자는 회사로 확인됨.",
+  "vote_opinion": {
+    "opinion": "반대",
+    "reason": "회사가 성과 기반 보상을 주장하지만, 주주가치 보호에 대한 구체적인 증거가 부족하다.",
+    "evidence": [
+      {
+        "chunk_id": "p04_main_003",
+        "quote": "this vote is advisory, it will not be binding upon our Board.",
+        "check": "통과"
+      }
+    ]
+  },
+  "needs_check": [],
+  "proposal_no": 4,
+  "evidence_total": 7,
+  "evidence_passed": 7
+}
